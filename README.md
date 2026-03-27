@@ -1,4 +1,4 @@
-<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/b8fe7808-6e2a-4f8b-9c19-c45bf7620144" /># 3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS
+CIRCUIT-USING-NODAL-ANALYSIS
 
 **AIM:**
 
